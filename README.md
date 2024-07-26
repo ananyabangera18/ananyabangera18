@@ -45,6 +45,3 @@
 
 ---
 
-### My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="ananyabangera18"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
