@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Ananya here!! 
+ Hi 👋, I'm Ananya M Bangera.
 </h1>
 
 
