@@ -1,10 +1,11 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/8558/246387264-b442cf0f-ab77-4694-a1ea-08d8e20a441a.png" width="100%">
-</p>
-
 <h1 align="center">
  Hi 👋, I'm Ananya M Bangera.
 </h1>
+
+<p align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyNDgzNzYsIm5iZiI6MTczOTI0ODA3NiwicGF0aCI6Ii83NDAzODE5MC8yNDg4ODQwMDQtYWYyMTJkYTQtODU4OC00ZDdjLTg0MDAtMTZlNTZmMjc0NmEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDA0Mjc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwMjg1MjcxM2ZhMzcxMjcwZDg2N2ZhOTk4ODgxY2RmMDUzNTUzZmQ2YTQzYjk2NDlmMzE1ZjJjMWVmYWMzZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GxdMNCGxPD8NEr53vpTa2WHlHKfTWYjBDnI5PFs-ptg" width="100%">
+</p>
+
 
 
 #### About Me :
