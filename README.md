@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/ananya-m-bangera-b32a6a225/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:ananyabangera5@gmail.com">
+  <a href="mailto:ananyabangera3@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
